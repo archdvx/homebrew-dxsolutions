@@ -27,7 +27,7 @@ A collection of various formulae and casks intended to be installed using the [H
 
 ## How do I install these formulae?
 
-Add this tap by executing `brew tap tigase/tigase`
+Add this tap by executing `brew tap archdvx/dxsolutions`
 
 and then install the desired formula or cask:
 * [dxirc](https://dxirc.org/): `brew cask install dxirc`

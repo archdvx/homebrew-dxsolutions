@@ -33,7 +33,7 @@ and then install the desired formula or cask:
 * [dxirc](https://dxirc.org/): `brew cask install dxirc`
 * [dxtime](https://dxtime.dxsolutions.org/): `brew cask install dxtime`
 * [dxreminders](https://dxreminders.dxsolutions.org/): `brew cask install dxreminders`
-* [dxde](https://dxde/dxsolutions.org/): `brew cask install dxde`
+* [dxde](https://dxde.dxsolutions.org/): `brew cask install dxde`
 
 ## Brew Documentation
 `brew help`, `man brew`, or check [Homebrew's documentation][brew-docs].

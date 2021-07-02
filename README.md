@@ -27,9 +27,8 @@ A collection of various formulae and casks intended to be installed using the [H
 
 ## How do I install these formulae?
 
-Add this tap by executing `brew tap archdvx/dxsolutions`
+Add this tap by executing `brew tap archdvx/dxsolutions` and then install the desired formula or cask:
 
-and then install the desired formula or cask:
 * [dxirc](https://dxirc.org/): `brew install --cask dxirc`
 * [dxtime](https://dxtime.dxsolutions.org/): `brew install --cask dxtime`
 * [dxreminders](https://dxreminders.dxsolutions.org/): `brew install --cask dxreminders`

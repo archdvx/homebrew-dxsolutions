@@ -1,6 +1,6 @@
 cask 'dxirc' do
-  version '1.30.0'
-  sha256 '5cd609d646fbc7f5f02c32dfb9e93d7ae22e826a60f3ea459f8bb723543a4fe4'
+  version '1.40.0'
+  sha256 '631d25665229fe8b3b2baed14f6a4c2ac2eb6e2bd446a2a074bde4069ba8bf51'
 
   url "https://downloads.sourceforge.net/dxirc/dxirc-#{version}.dmg",
       verified: "downloads.sourceforge.net/dxirc/"

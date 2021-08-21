@@ -19,6 +19,11 @@
       src="https://dxsolutions.org/images/dxde.png"
       width="135"
     />
+    <img
+      alt="wxdfast"
+      src="https://dxsolutions.org/images/wxdfast.png"
+      width="135"
+    />
 </p>
 
 # dxSolutions Homebrew repository
@@ -33,6 +38,7 @@ Add this tap by executing `brew tap archdvx/dxsolutions` and then install the de
 * [dxtime](https://dxtime.dxsolutions.org/): `brew install --cask dxtime`
 * [dxreminders](https://dxreminders.dxsolutions.org/): `brew install --cask dxreminders`
 * [dxde](https://dxde.dxsolutions.org/): `brew install --cask dxde`
+* [wxDownload Fast](https://wxdfast.dxsolutions.org/): `brew install --cask wxdfast`
 
 ## Brew Documentation
 `brew help`, `man brew`, or check [Homebrew's documentation][brew-docs].

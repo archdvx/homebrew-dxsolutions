@@ -1,6 +1,6 @@
 cask 'wxdfast' do
-  version '0.70.1'
-  sha256 '3c8244190362c25d6d783fbc79c66d80a56b352a5b3fe66046425e73c18d30a8'
+  version '0.70.2'
+  sha256 '88d0cabf3dbd7ba96310804650aae73a88419b136baaad21fbcf7330abe3e479'
 
   url "https://github.com/archdvx/wxdfast/releases/download/v#{version}/wxDownloadFast-#{version}.dmg"
   name 'wxDownload Fast'

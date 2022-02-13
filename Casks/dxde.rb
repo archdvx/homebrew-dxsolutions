@@ -1,6 +1,6 @@
 cask 'dxde' do
-  version '1.40.7'
-  sha256 'ab546c78b8bbe253ba3825719b6f3c463f2a27f9fc69be43bce1fed5ef01d634'
+  version '1.40.8'
+  sha256 'bd8c12b2af19f2a41840fd72465c6b2dd08c7acbf5cb91cc59e3d242dd2291c0'
 
   url "https://files.dxsolutions.org/dxde-#{version}.dmg"
   name 'dxde'

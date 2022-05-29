@@ -7,8 +7,6 @@ class Aria2Withlib < Formula
 
   conflicts_with "aria2"
   
-  bottle :unneeded
-
   depends_on "pkg-config" => :build
   depends_on "libssh2"
 

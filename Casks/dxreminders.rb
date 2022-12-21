@@ -7,7 +7,7 @@ cask 'dxreminders' do
   desc 'A simple program for reminders'
   homepage 'https://dxreminders.dxsolutions.org/'
 
-  depends_on macos: ">= :mojave"
+  depends_on macos: ">= :catalina"
 
   app "dxreminders.app"
 end

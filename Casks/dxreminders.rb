@@ -1,6 +1,6 @@
 cask 'dxreminders' do
-  version '1.21.0'
-  sha256 'e8e056a9d40a98c011b6ad93b8faa10f44dd8d02479dcabaeae721e850b44ce3'
+  version '1.21.1'
+  sha256 'fcc1db46ce7045fd38547e3d431378475e6b4a35d974556753fba072f21a1add'
 
   url "https://files.dxsolutions.org/dxreminders-#{version}.dmg"
   name 'dxreminders'

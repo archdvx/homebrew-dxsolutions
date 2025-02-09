@@ -1,6 +1,6 @@
 cask 'dxtime' do
-  version '1.2.3'
-  sha256 'f02b8665da785baa18a8677fe8eef5622a7d2be4df7ab3b5dd34374dddab4bed'
+  version '1.2.4'
+  sha256 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
 
   url "https://downloads.sourceforge.net/dxtime/dxtime-#{version}.dmg",
       verified: "downloads.sourceforge.net/dxtime/"

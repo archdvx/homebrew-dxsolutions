@@ -1,12 +1,12 @@
 class Aria2Withlib < Formula
   desc "Download with resuming and segmented downloading"
   homepage "https://aria2.github.io/"
-  url "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.xz"
-  sha256 "58d1e7608c12404f0229a3d9a4953d0d00c18040504498b483305bcb3de907a5"
+  url "https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0.tar.xz"
+  sha256 "60a420ad7085eb616cb6e2bdf0a7206d68ff3d37fb5a956dc44242eb2f79b66b"
   license "GPL-2.0-or-later"
 
   conflicts_with "aria2"
-  
+
   depends_on "pkg-config" => :build
   depends_on "libssh2"
 
@@ -14,7 +14,7 @@ class Aria2Withlib < Formula
   uses_from_macos "zlib"
 
   on_linux do
-    depends_on "openssl@1.1"
+    depends_on "openssl@3"
   end
 
   def install

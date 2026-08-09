@@ -8,7 +8,7 @@ cask 'dxirc' do
   desc 'A simple IRC client'
   homepage 'https://dxirc.org/'
 
-  depends_on macos: ">= :catalina"
+  depends_on macos: :catalina
 
   app "dxirc.app"
 end

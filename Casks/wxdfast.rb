@@ -7,7 +7,7 @@ cask 'wxdfast' do
   desc 'Multithread download manager'
   homepage 'https://wxdfast.dxsolutions.org/'
 
-  depends_on macos: ">= :mojave"
+  depends_on macos: :mojave
 
   app "wxDownloadFast.app"
 end

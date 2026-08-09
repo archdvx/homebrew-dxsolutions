@@ -8,7 +8,7 @@ cask 'dxtime' do
   desc 'Program for time tracking'
   homepage 'https://dxtime.dxsolutions.org/'
 
-  depends_on macos: ">= :mojave"
+  depends_on macos: :mojave
 
   app "dxtime.app"
 end

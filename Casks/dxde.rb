@@ -9,7 +9,7 @@ cask "dxde" do
   desc "Program pro vedeni danove evidence (for czech tax records)"
   homepage "https://dxde.dxsolutions.org/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "dxde.app"
 end
